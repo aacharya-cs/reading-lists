@@ -1,0 +1,73 @@
+---
+title: "NIPS 2019 Reading List (WIP)"
+output:
+  html_document:
+    toc: yes
+    toc_depth: 4
+fontsize: 10pt
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Deep Models for Graphs
+
+### Graph VAE
+
+* https://papers.nips.cc/paper/9255-semi-implicit-graph-variational-auto-encoders
+* https://papers.nips.cc/paper/8437-d-vae-a-variational-autoencoder-for-directed-acyclic-graphs 
+
+### Graph Neural Network
+
+* https://papers.nips.cc/paper/9254-variational-graph-recurrent-neural-networks
+* https://papers.nips.cc/paper/8430-hypergcn-a-new-method-for-training-graph-convolutional-networks-on-hypergraphs
+* https://papers.nips.cc/paper/8488-provably-powerful-graph-networks
+* https://papers.nips.cc/paper/8931-universal-invariant-and-equivariant-graph-neural-networks
+* https://papers.nips.cc/paper/9033-hyperbolic-graph-neural-networks
+* https://papers.nips.cc/paper/8733-hyperbolic-graph-convolutional-neural-networks
+* https://papers.nips.cc/paper/9276-break-the-ceiling-stronger-multi-scale-deep-graph-convolutional-networks
+* https://papers.nips.cc/paper/9303-layer-dependent-importance-sampling-for-training-deep-and-large-graph-convolutional-networks
+* https://papers.nips.cc/paper/9444-recurrent-space-time-graph-neural-networks
+* https://papers.nips.cc/paper/9675-understanding-the-representation-power-of-graph-neural-networks-in-learning-graph-topology
+* https://papers.nips.cc/paper/9718-on-the-equivalence-between-graph-isomorphism-testing-and-function-approximation-with-gnns
+
+### Graph Attention Networks 
+
+* https://papers.nips.cc/paper/8673-understanding-attention-and-generalization-in-graph-neural-networks
+* https://papers.nips.cc/paper/8678-efficient-graph-generation-with-graph-recurrent-attention-networks
+
+### Graph Transformer Networks
+
+* https://papers.nips.cc/paper/9367-graph-transformer-networks
+
+## Graph Embeddings
+
+* https://papers.nips.cc/paper/8696-multi-relational-poincare-graph-embeddings
+* https://papers.nips.cc/paper/8541-quaternion-knowledge-graph-embeddings
+
+## Causal Learning on Graphs
+
+* https://papers.nips.cc/paper/9581-characterization-and-learning-of-causal-graphs-with-latent-variables-from-soft-interventions
+
+## Normalizing Flows on Graph
+
+* https://papers.nips.cc/paper/9510-graph-normalizing-flows
+
+## Adversarial Learning on Graph Neural Networks
+
+* https://papers.nips.cc/paper/8415-conditional-structure-generation-through-graph-variational-generative-adversarial-nets
+* https://papers.nips.cc/paper/9171-a-unified-framework-for-data-poisoning-attack-to-graph-based-semi-supervised-learning
+
+## Explanation of Graph Neural Networks
+
+* https://papers.nips.cc/paper/9123-gnnexplainer-generating-explanations-for-graph-neural-networks
+
+## Others
+
+* https://papers.nips.cc/paper/9054-n-gram-graph-simple-unsupervised-representation-for-graphs-with-applications-to-molecules
+* https://papers.nips.cc/paper/9019-sparse-logistic-regression-learns-all-discrete-pairwise-graphical-models
+* https://papers.nips.cc/paper/9626-generalized-matrix-means-for-semi-supervised-learning-with-multilayer-graphs
+* https://papers.nips.cc/paper/8590-a-flexible-generative-framework-for-graph-based-semi-supervised-learning
+
+
