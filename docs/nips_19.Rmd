@@ -41,10 +41,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * https://papers.nips.cc/paper/9367-graph-transformer-networks
 
-## Graph Embeddings
+### Graph Embeddings
 
 * https://papers.nips.cc/paper/8696-multi-relational-poincare-graph-embeddings
 * https://papers.nips.cc/paper/8541-quaternion-knowledge-graph-embeddings
+
+### Adversarial Learning on Graph Neural Networks
+
+* https://papers.nips.cc/paper/8415-conditional-structure-generation-through-graph-variational-generative-adversarial-nets
+* https://papers.nips.cc/paper/9171-a-unified-framework-for-data-poisoning-attack-to-graph-based-semi-supervised-learning
+
+### Explanation of Graph Neural Networks
+
+* https://papers.nips.cc/paper/9123-gnnexplainer-generating-explanations-for-graph-neural-networks
 
 ## Causal Learning on Graphs
 
@@ -53,15 +62,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Normalizing Flows on Graph
 
 * https://papers.nips.cc/paper/9510-graph-normalizing-flows
-
-## Adversarial Learning on Graph Neural Networks
-
-* https://papers.nips.cc/paper/8415-conditional-structure-generation-through-graph-variational-generative-adversarial-nets
-* https://papers.nips.cc/paper/9171-a-unified-framework-for-data-poisoning-attack-to-graph-based-semi-supervised-learning
-
-## Explanation of Graph Neural Networks
-
-* https://papers.nips.cc/paper/9123-gnnexplainer-generating-explanations-for-graph-neural-networks
 
 ## Others
 
